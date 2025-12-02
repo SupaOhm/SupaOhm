@@ -31,7 +31,7 @@ Interested in **full-stack development**, **backend development**, **databases**
 - **Lost & Found Management System** – Full-stack web app with PHP, MySQL, and session-based auth  
 - **Binary Matching Arduino Game** – Embedded reaction game with keypad & 7-segment display  
 - **Online Shop Database Design** – Fully normalized SQL schema with optimized queries  
-- **Baka Platform UX/UI Overhaul** – Figma prototypes & usability research for a satellite-image platform
+- **Bruhken** – LINE chatbot using a weather API to answer “Should I wear Birkenstock?” and notify users if rain is expected
 
 ---
 
