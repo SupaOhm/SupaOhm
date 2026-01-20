@@ -21,9 +21,9 @@ Interested in **full-stack development**, **backend development**, **databases**
 
 ---
 
-## Tech Stack
+## Technologies
 **Languages:** Python, Java, C, C++, C#, JavaScript, SQL, PHP, HTML/CSS <br>
-**Tools:** Node.js, MySQL, .NET, Git, Arduino, Figma, MAMP
+**Tech:** Node.js, Express.js, MongoDB, React, TailwindCSS, MySQL, .NET, Git, Arduino, Figma, MAMP
 
 ---
 
