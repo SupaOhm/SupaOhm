@@ -21,6 +21,11 @@ Interested in **full-stack development**, **backend development**, **databases**
 
 ---
 
+## About Me
+Computer Engineering student with experience in full-stack software development, backend systems, and database design. Strong foundation in object-oriented programming, data structures and algorithms, and software engineering principles. Experienced in building and integrating web applications, designing APIs, and working with relational and NoSQL databases through academic and industry-collaborative projects. Currently seeking a Software Development internship to contribute to reliable, well-structured systems while continuing to grow as a developer.
+
+---
+
 ## Technologies
 **Languages:** Python, Java, C, C++, C#, JavaScript, SQL, PHP, HTML/CSS <br>
 **Tech:** Node.js, Express.js, MongoDB, React, TailwindCSS, MySQL, .NET, Git, Arduino, Figma, MAMP
