@@ -29,10 +29,11 @@ Interested in **full-stack development**, **backend development**, **databases**
 
 ## Notable Projects
 - **Expense Tracker** - Simple Full-stack web app with RESTful API using MERN stack
-- **Lost & Found Management System** – Full-stack web app with PHP, MySQL, and session-based auth  
-- **Binary Matching Arduino Game** – Embedded reaction game with keypad & 7-segment display  
-- **Online Shop Database Design** – Fully normalized SQL schema with optimized queries  
-- **Bruhken** – LINE chatbot using a weather API to answer “Should I wear Birkenstock?” and notify users if rain is expected
+- **Lost & Found Management System** - Full-stack web app with PHP, MySQL, and session-based auth
+- **NoSleep** - CLI tool that prevents the system from entering sleep mode or turning off the display
+- **Binary Matching Arduino Game** - Embedded reaction game with keypad & 7-segment display  
+- **Online Shop Database Design** - Fully normalized SQL schema with optimized queries  
+- **Bruhken** - LINE chatbot using a weather API to answer “Should I wear Birkenstock?” and notify users if rain is expected
 
 ---
 
