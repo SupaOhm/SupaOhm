@@ -28,6 +28,7 @@ Interested in **full-stack development**, **backend development**, **databases**
 ---
 
 ## Notable Projects
+- **Expense Tracker** - Simple Full-stack web app with RESTful API using MERN stack
 - **Lost & Found Management System** – Full-stack web app with PHP, MySQL, and session-based auth  
 - **Binary Matching Arduino Game** – Embedded reaction game with keypad & 7-segment display  
 - **Online Shop Database Design** – Fully normalized SQL schema with optimized queries  
