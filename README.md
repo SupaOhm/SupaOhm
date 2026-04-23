@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 # 👋 Hi there, I'm Ohm (Supakorn Prayongyam)
 
 ### Computer Engineering Student @ SIIT, Thammasat University  
-Interested in **full-stack development**, **artificial intelligence**, **Network and Internetworkings**, **backend development**, **databases**, **embedded systems**, and **UX/UI**.
+Interested in **full-stack development**, **artificial intelligence**, **network and internetworkings**, **backend development**, **databases**, **embedded systems**, and **UX/UI**.
 
 ---
 
 ## About Me
-Computer Engineering student with experience in full-stack software development, backend systems, and database design. Strong foundation in object-oriented programming, data structures and algorithms, and software engineering principles. Experienced in building and integrating web applications, designing APIs, and working with relational and NoSQL databases through academic and industry-collaborative projects. Currently seeking a Software Development internship to contribute to reliable, well-structured systems while continuing to grow as a developer.
+Computer Engineering student with experience in network engineering, full-stack software development, backend systems, and database design. Strong foundation in object-oriented programming, data structures and algorithms, and software engineering principles. Experienced in building and integrating web applications, designing APIs, and working with relational and NoSQL databases through academic and industry-collaborative projects. Currently seeking an internship to contribute to reliable, well-structured systems while continuing to grow as a developer.
 
 ---
 
