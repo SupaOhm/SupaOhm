@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # 👋 Hi there, I'm Ohm (Supakorn Prayongyam)
 
 ### Computer Engineering Student @ SIIT, Thammasat University  
-Interested in **full-stack development**, **backend development**, **databases**, **embedded systems**, and **UX/UI**.
+Interested in **full-stack development**, **artificial intelligence**, **Network and Internetworkings**, **backend development**, **databases**, **embedded systems**, and **UX/UI**.
 
 ---
 
