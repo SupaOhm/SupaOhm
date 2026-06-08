@@ -27,7 +27,7 @@ Computer Engineering student with experience in network engineering, full-stack 
 ---
 
 ## Technologies
-**Languages:** Python, Java, C, C++, C#, JavaScript, SQL, PHP, HTML/CSS <br>
+**Languages:** Python, Java, C, C++, C#, TypeScript, JavaScript, SQL, PHP, HTML/CSS <br>
 **Tech:** Node.js, Express.js, MongoDB, React, TailwindCSS, MySQL, .NET, Git, Arduino, Figma, MAMP
 
 ---
