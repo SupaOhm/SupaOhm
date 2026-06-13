@@ -22,7 +22,7 @@ Interested in **cybersecurity**, **distributed systems**, **machine learning sys
 ---
 
 ## About Me
-Computer Engineering student specializing in cybersecurity, with experience in network engineering, full-stack development, backend systems, and database design. Currently a Developer Intern at Mizuhada Group, building a RAG-powered internal chatbot. My flagship project, **NIDSaaS**, a cloud-native network intrusion detection system, has been submitted to IEEE IMC 2026.
+Computer Engineering student specializing in cybersecurity, with experience in network engineering, full-stack development, backend systems, and database design. Currently a Developer Intern at Mizuhada Group, building a RAG-powered internal chatbot. My flagship project, **ESNIDSaaS**, a cloud-native network intrusion detection system, has been accepted at IEEE IMC 2026.
 
 ---
 
@@ -34,7 +34,7 @@ Computer Engineering student specializing in cybersecurity, with experience in n
 ---
 
 ## Notable Projects
-- **NIDSaaS** - Cloud-native network intrusion detection system using Kafka, Spark, hybrid ML (Random Forest, HistGBM), and Snort — submitted to IEEE IMC 2026
+- **ESNIDSaaS** - Cloud-native network intrusion detection system using Kafka, Spark, hybrid ML (Random Forest, HistGBM), and Snort — accepted at IEEE IMC 2026.
 - **OpsBot** - RAG-powered internal chatbot for SOP Q&A using Google ADK, Gemini, ChromaDB, FastAPI, and React
 - **Expense Tracker** - Full-stack web app with RESTful API using MERN stack
 - **Lost & Found Management System** - Full-stack web app with PHP, MySQL, and session-based auth
