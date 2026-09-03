@@ -1,6 +1,6 @@
 <div align="center">
 
-# supaohm
+# SupaOhm
 
 **Supakorn Prayongyam** · Computer Engineering @ SIIT  
 AI systems · cybersecurity · backend things
