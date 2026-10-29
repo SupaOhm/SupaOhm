@@ -25,6 +25,14 @@ AI systems · security · full-stack web
 
 </div>
 
+## Experience
+
+**AI Developer Intern** · Mizuhada Group · <sub>Jun – Jul 2026</sub>
+
+Built an internal multi-agent AI assistant end to end: RAG over company documents plus read-only live inventory lookup.
+
+`Google ADK` `Gemini` `FastAPI` `React` `ChromaDB`
+
 ## Research
 
 **[ESNIDSaaS: Enabling Efficient and Scalable Network Intrusion Detection System as a Service](https://github.com/SupaOhm/NIDSaaS-Prototype)**  
@@ -36,65 +44,12 @@ Co-author. A tenant-aware, cloud-native intrusion-detection pipeline.
 
 `Kafka` `Spark Structured Streaming` `Snort` `Random Forest` `HistGradientBoosting` `Split-Conformal Prediction`
 
-## Experience
+**MA-ZeroPhish: Adaptive Multi-Agent Multimodal AI with Collaborative Reasoning for Zero-Day Phishing Detection**  
+<img src="https://img.shields.io/badge/Ongoing_research-SIIT-6366F1?style=flat-square" alt="Ongoing research at SIIT" />
 
-**AI Developer Intern** · Mizuhada Group *(completed)*  
-Built OpsBot, an enterprise RAG assistant for internal knowledge retrieval.
+Five specialist agents analyse URLs, page structure, visuals, message body and network infrastructure; Moderator and Judge agents weigh the evidence, resolve conflicts and request re-analysis when it falls short.
 
-`Google ADK` `Gemini` `FastAPI` `React` `ChromaDB`
-
-## Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [devbyohm.com](https://devbyohm.com)
-
-Freelance site for websites and web apps. Every package has a live demo clients can try before ordering.
-
-`Next.js` `TypeScript` `Cloudflare Workers`
-
-[Visit site](https://devbyohm.com)
-
-</td>
-<td width="50%" valign="top">
-
-### [Kep](https://github.com/SupaOhm/Kep)
-
-Mobile-first expense tracker for Thailand. Upload a bank or PromptPay slip and OCR fills in the amount, date, bank and reference.
-
-`Next.js` `TypeScript` `Supabase` `PWA`
-
-[Source](https://github.com/SupaOhm/Kep)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [fastform](https://github.com/SupaOhm/fastform)
-
-Submits a Google Form in ~300 ms by posting straight to the form endpoint instead of driving a browser. Dependency-free CLI.
-
-`Python` `CLI` `HTTP`
-
-[Source](https://github.com/SupaOhm/fastform)
-
-</td>
-<td width="50%" valign="top">
-
-### [AckLab](https://github.com/SupaOhm/AckLab)
-
-Interactive networking labs: subnet visualisation, TCP handshake animation, OSI explorer, DNS flow and graph-based routing.
-
-`Next.js` `TypeScript`
-
-[Live demo](https://acklab.vercel.app) · [Source](https://github.com/SupaOhm/AckLab)
-
-</td>
-</tr>
-</table>
+`Agentic AI` `Multimodal AI` `Zero-day phishing`
 
 ## Tech stack
 
