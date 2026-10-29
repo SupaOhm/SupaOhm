@@ -17,6 +17,18 @@ AI systems · cybersecurity · backend things
 
 <br /><br />
 
+<a href="https://devbyohm.com">
+  <img src="https://img.shields.io/badge/Open_for_projects-devbyohm.com_%E2%86%92-D7FF5C?style=for-the-badge&labelColor=0E1A14" alt="Open for projects: devbyohm.com" />
+</a>
+
+<a href="https://devbyohm.com">
+  <img src="https://devbyohm.com/share/en.jpg" width="640" alt="devbyohm.com: websites and web apps, each with a live demo" />
+</a>
+
+<sub><b>I build websites & web apps. Every package has a live demo you can try first.</b><br />sale page · company site · resort site · API · dashboard · booking system</sub>
+
+<br /><br />
+
 <img src="https://img.shields.io/badge/IEEE_IMC_2026-Best_Paper_Award-F59E0B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE IMC 2026 Best Paper Award" />
 
 </div>
@@ -33,9 +45,10 @@ It received the **Best Paper Award** at the 14th IEEE International Conference o
 
 | | Project | What it is |
 | :-- | :-- | :-- |
-| **01** | [Kep](https://github.com/SupaOhm/Kep) | Thai-first, mobile-first expense tracker with bank-slip OCR, budgets, and Supabase. |
-| **02** | [fastform](https://github.com/SupaOhm/fastform) | A Python CLI that submits Google Forms directly and verifies the response—no browser automation. |
-| **03** | [AckLab](https://github.com/SupaOhm/AckLab) | Interactive networking fundamentals: subnet visualisation, protocol simulations, and hands-on labs. |
+| **01** | [devbyohm.com](https://devbyohm.com) | My freelance site: a live, clickable demo for every web and app package. |
+| **02** | [Kep](https://github.com/SupaOhm/Kep) | Thai-first, mobile-first expense tracker with bank-slip OCR, budgets, and Supabase. |
+| **03** | [fastform](https://github.com/SupaOhm/fastform) | A Python CLI that submits Google Forms directly and verifies the response—no browser automation. |
+| **04** | [AckLab](https://github.com/SupaOhm/AckLab) | Interactive networking fundamentals: subnet visualisation, protocol simulations, and hands-on labs. |
 
 ## day job lore
 
